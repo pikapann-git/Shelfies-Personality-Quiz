@@ -2,7 +2,7 @@
 Fun personality quiz based on groceries! <br>
 
 Art and Design made by Chelian Sandoval. <br>
-Current Link: https://euclid-g-hub.github.io/Shelfies-Personality-Quiz/ <br>
+Current Link: https://pikapann-git.github.io/Shelfies-Personality-Quiz/ <br>
 
 Copyright &copy; 2025 Chelian Sandoval <br>
 All Rights Reserved. <br>
